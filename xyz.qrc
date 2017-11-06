@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ZdN38V.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>twitter-logo.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>Twitter-icon.png</file>
+  </qresource>
+</RCC>
