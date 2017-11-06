@@ -76,11 +76,11 @@ class Ui_Form(object):
         '''
         keys are provided by twitter after registration of app on their portal
         '''
-        consumer_key= 'AkRmo6wpXHoxeTQ2HWD6ASpaR'
-        consumer_secret= '4DnZKUcfewfvqRqKQsjzbIved5S2mp1KsaaLeIr4NFUiam2Imi'
+        consumer_key= ''
+        consumer_secret= ''
 
-        access_token='869627589865766912-4Jb7jlGRGN3EZKb8NKOz5dv4HougcP9'
-        access_token_secret='m84ro1geHgbYduoWfQkIet4YXKynUkjArng4dZss5uiYF'
+        access_token=''
+        access_token_secret=''
 
         #authenticating
         auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
